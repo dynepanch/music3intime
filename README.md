@@ -15,13 +15,17 @@
 # 導入方法
 `git clone https://github.com/dynepanch/music3intime.git`
 
-# クレジット
-サンプルの音声にはOtoLogicの素材を使用しています
-<br>
 
 # 元ネタ
 【Minecraft】現在時刻に３が入るたびにデビルマンのうたが流れるMinecraft～Singing Stream???～【町田ちま/にじさんじ】
 <br>
 https://www.youtube.com/watch?v=ndvv9QvcCHw
+<br>
+
+
+
+# クレジット
+サンプルの音声にはOtoLogicの素材を使用しています
+<br>
 <br>
 ©2023 Ken Inaba
