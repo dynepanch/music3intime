@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=ndvv9QvcCHw
 <br>
 
 
-
+# テスト環境
+Google chrome
 # クレジット
 サンプルの音声にはOtoLogicの素材を使用しています
 <br>
