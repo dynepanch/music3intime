@@ -32,6 +32,7 @@
    	var nowMin;
    	var nowSec;
  		var msges="開始";
+		var i;
 		function showClock1() {
 			
    		nowTime = new Date();
@@ -45,7 +46,7 @@
 		}
 		setInterval('showClock1()',1000);
 		function playaudio(){	
-			var i;
+			
 			const minitu=nowMin;
 			const hour=nowHour;
 			
@@ -109,13 +110,18 @@
 			}
 			if(i==1){
 				document.getElementById("audio").play();
+				
 			}
 			
  		}
  		setInterval('playaudio()',1100);
  		
  		function change(){
- 			msges="動作中";
+ 			if(i==1){
+ 				msges="再生中";	
+ 			}else{
+ 				msges="動作中";
+ 			}
  			playaudio();
  		}
  		
