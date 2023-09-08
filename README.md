@@ -2,6 +2,9 @@
 # 強制ミュージック！
 <img src=https://github.com/dynepanch/music3intime/blob/main/image/images.JPG alt="強制ミュージック" title="イメージロゴ">
 
+https://dynepanch.github.io/kyouseimusic/
+<br>
+ここで使用できます。
 # kyouseimusic.html
 
 現在時間の[分]もしくは[時間]に３の数字が含まれる場合に音楽を再生します。
@@ -25,6 +28,8 @@ https://www.youtube.com/watch?v=ndvv9QvcCHw
 
 # テスト環境
 Google chrome
+<br>
+Safari
 # クレジット
 サンプルの音声にはOtoLogicの素材を使用しています
 <br>
