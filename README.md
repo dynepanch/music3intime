@@ -1,7 +1,7 @@
 # music3intime
 # 強制ミュージック！
 <img src=https://github.com/dynepanch/music3intime/blob/main/image/images.JPG alt="強制ミュージック" title="イメージロゴ">
-## kyouseimusic.html
+# kyouseimusic.html
 <br>
 現在時間の分もしくは時間に３の数字が含まれる場合に音楽を再生します。
 <br>
